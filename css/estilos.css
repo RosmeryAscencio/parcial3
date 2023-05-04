@@ -1,0 +1,183 @@
+h1{
+    color: #f90275;
+    font-size: 5.625rem;
+    margin: 80px auto 0 auto;
+    font-family:'Sacramento', cursiva ;
+}
+
+h3{
+    color: #820380;
+    font-family: 'Sacramento', cursiva ;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+ 
+h4{
+    color: #fdfbfc;
+    font-size: 25px;
+    margin: 80px auto 0 auto;
+    font-family:'Montserrat', sans-serif;
+}
+
+
+#titulo {
+    background-color: #f585c5;
+    color: #fff;
+}
+
+#caracteristicas {
+    padding: 7% 15%;
+}
+
+.caja-caracteristica {
+    text-align: center;
+    padding: 5%;
+}
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 100;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+   
+   
+    position: absolute;
+    float: right;
+}
+
+
+
+p {
+    color: #8f8f8f;
+}
+
+.icon {
+    color: #820380;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #b802c9;
+}
+
+#testimonios {
+    text-align: center;
+    background-color: #f585c5;
+    color: #fff;
+}
+
+
+
+.img-testimonio {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#prensa {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.logo-prensa {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#precios {
+    padding: 100px;
+    text-align: center;
+}
+
+.precios-col {
+    padding: 3% 2%;
+}
+
+#caracteristicas {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+#caracteristicas {
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+@media (max-width: 1028px) {
+    #titulo {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+#cta {
+    background-color: #e670f8;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.encabezado-cta {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
